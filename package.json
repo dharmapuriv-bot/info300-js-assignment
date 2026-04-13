@@ -1,0 +1,16 @@
+{
+  "name": "info300-js-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "grades.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
